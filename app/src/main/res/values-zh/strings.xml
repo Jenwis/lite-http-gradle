@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">LiteHttp</string>
     <string name="title">Lite实验室:HTTP</string>
     <string name="sub_title">Log中查看执行结果</string>
 
